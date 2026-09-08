@@ -1,0 +1,5 @@
+[alias]
+test-llm = "test --test llamacpp -- --show-output"
+
+[env]
+VULKAN_SDK = { value = "data/vulkan/usr", relative = true }
