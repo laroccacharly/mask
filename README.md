@@ -69,3 +69,7 @@ cd ui
 bunx playwright install chromium
 bun run test:ui
 ```
+
+# License
+
+Mask is available under the [MIT License](LICENSE).
